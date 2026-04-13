@@ -1,0 +1,11 @@
+# Build artifacts
+*.exe
+*.obj
+*.o
+*.pdb
+*.ilk
+*.exp
+*.lib
+
+# Local / large audio (keep repo small; add samples via release or LFS if needed)
+*.wav
